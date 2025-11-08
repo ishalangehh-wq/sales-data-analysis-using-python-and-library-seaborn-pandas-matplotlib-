@@ -103,5 +103,3 @@ Highlights relationships among numeric variables.
 
 
 
-Would you like me to make a **“2×2 dashboard figure” (all 4 plots in one single image)** so you can add it at the top of this README too?
-That makes your repo banner-style like professional Data Analyst portfolios.
